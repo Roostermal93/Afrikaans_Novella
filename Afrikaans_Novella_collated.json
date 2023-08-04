@@ -1,1 +1,28 @@
-ew0KICAgICJjb3VudCI6IDMsDQogICAgIm5leHQiOiBudWxsLA0KICAgICJwcmV2aW91cyI6IG51bGwsDQogICAgInJlc3VsdHMiOiBbDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICJiNDM2NmE0My1lY2U5LTQ4ZDEtODQxMy1mOTcxZDk2NjllMTUiLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJBZnJpa2FhbnMiLA0KICAgICAgICAgICAgInR5cGUiOiAiTm92ZWxsYSIsDQogICAgICAgICAgICAic3RhdHVzIjogInByaXZhdGUiLA0KICAgICAgICAgICAgInZpZGVvVXJsIjogImh0dHBzOi8vd3d3LnRoZWFydG9mZHJvd25pbmcuY29tL0FJQ29udGVudC9Ob3ZlbGxhL0FmcmlrYWFucy9iNDM2NmE0My1lY2U5LTQ4ZDEtODQxMy1mOTcxZDk2NjllMTUvYjQzNjZhNDMtZWNlOS00OGQxLTg0MTMtZjk3MWQ5NjY5ZTE1Lm1wNCINCiAgICAgICAgfSwNCiAgICAgICAgew0KICAgICAgICAgICAgImlkIjogIjFlMDdjZTFiLWYyMmMtNGRiNS04OTM3LWQ2ZTU4Y2Q1YWI5ZiIsDQogICAgICAgICAgICAiY29sbGVjdGlvbklkIjogIkFmcmlrYWFucyIsDQogICAgICAgICAgICAidHlwZSI6ICJOb3ZlbGxhIiwNCiAgICAgICAgICAgICJzdGF0dXMiOiAicHJpdmF0ZSIsDQogICAgICAgICAgICAidmlkZW9VcmwiOiAiaHR0cHM6Ly93d3cudGhlYXJ0b2Zkcm93bmluZy5jb20vQUlDb250ZW50L05vdmVsbGEvQWZyaWthYW5zLzFlMDdjZTFiLWYyMmMtNGRiNS04OTM3LWQ2ZTU4Y2Q1YWI5Zi8xZTA3Y2UxYi1mMjJjLTRkYjUtODkzNy1kNmU1OGNkNWFiOWYubXA0Ig0KICAgICAgICB9LA0KICAgICAgICB7DQogICAgICAgICAgICAiaWQiOiAiZThmNWYwNWItODg2Ni00NDEwLTg1M2EtYzUxOTE4ZGYxM2RlIiwNCiAgICAgICAgICAgICJjb2xsZWN0aW9uSWQiOiAiQWZyaWthYW5zIiwNCiAgICAgICAgICAgICJ0eXBlIjogIk5vdmVsbGEiLA0KICAgICAgICAgICAgInN0YXR1cyI6ICJwcml2YXRlIiwNCiAgICAgICAgICAgICJ2aWRlb1VybCI6ICJodHRwczovL3d3dy50aGVhcnRvZmRyb3duaW5nLmNvbS9BSUNvbnRlbnQvTm92ZWxsYS9BZnJpa2FhbnMvZThmNWYwNWItODg2Ni00NDEwLTg1M2EtYzUxOTE4ZGYxM2RlL2U4ZjVmMDViLTg4NjYtNDQxMC04NTNhLWM1MTkxOGRmMTNkZS5tcDQiDQogICAgICAgIH0NCiAgICBdDQp9
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "b4366a43-ece9-48d1-8413-f971d9669e15",
+            "collectionId": "Afrikaans",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Afrikaans/Afrikaans_Novella/b4366a43-ece9-48d1-8413-f971d9669e15/b4366a43-ece9-48d1-8413-f971d9669e15_af_Female.mp4"
+        },
+        {
+            "id": "1e07ce1b-f22c-4db5-8937-d6e58cd5ab9f",
+            "collectionId": "Afrikaans",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Afrikaans/Afrikaans_Novella/1e07ce1b-f22c-4db5-8937-d6e58cd5ab9f/1e07ce1b-f22c-4db5-8937-d6e58cd5ab9f_af_Female.mp4"
+        },
+        {
+            "id": "e8f5f05b-8866-4410-853a-c51918df13de",
+            "collectionId": "Afrikaans",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Afrikaans/Afrikaans_Novella/e8f5f05b-8866-4410-853a-c51918df13de/e8f5f05b-8866-4410-853a-c51918df13de_af_Female.mp4"
+        }
+    ]
+}
